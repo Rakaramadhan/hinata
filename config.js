@@ -11,11 +11,11 @@ import moment from "moment-timezone"
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-    ["6282195322106"],
-    ["6282195322106", "️WudySoft - Owner", true]
+    ["6285155282285"],
+    ["6285155282285", "️WudySoft - Owner", true]
 ]
-global.mods = ["6282195322106"]
-global.prems = ["6282195322106"]
+global.mods = ["6285155282285"]
+global.prems = ["6285155282285"]
 
 /*Website*/
 global.APIs = {
@@ -77,18 +77,18 @@ HIRO
 
 /*Number*/
 global.nomorbot = "628******"
-global.nomorown = "6285380166282"
-global.namebot = " 𝙼𝚊𝚡𝚡𝚢 𝙱𝚘𝚝𝚣 あ⁩ "
-global.nameown = "「 𝙑𝙞𝙣𝙨𝙨. 」"
+global.nomorown = "6285155282285"
+global.namebot = " Ediku 𝙱𝚘𝚝𝚣 あ⁩ "
+global.nameown = "「 Edikur.exe 」"
 
 /* Random */
 global.pmenus = pickRandom(["◈", "➭", "ଓ", "⟆•", "⳻⳻", "•", "↬", "◈▻", "⭑", "ᯬ", "◉", "᭻", "»", "〆", "々", "⛥", "✗", "⚜", "⚚", "♪"])
 global.htjava = pickRandom(["⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", "⬟", "⛊", "⚝"])
 
 /*Watermark*/
-global.wm = "                「 𝙼𝚊𝚡𝚡𝚢 𝙱𝚘𝚝𝚣 あ⁩ 」"
+global.wm = "                「 Edikur 𝙱𝚘𝚝𝚣 あ⁩ 」"
 global.wm2 = "꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷"
-global.wm3 = htjava + " 𝙼𝚊𝚡𝚡𝚢 𝙱𝚘𝚝𝚣"
+global.wm3 = htjava + " Edikur 𝙱𝚘𝚝𝚣"
 global.botdate = `${htjava} Date :  ${moment.tz("Asia/Jakarta").format("DD/MM/YY")}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz("Asia/Jakarta").format("HH:mm:ss")}`
 global.titlebot = `${htjava} Time Sever : ${moment.tz("Asia/Jakarta").format("HH:mm:ss")}\n⫹⫺ Date Server :  ${moment.tz("Asia/Jakarta").format("DD/MM/YY")}`
