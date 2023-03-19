@@ -12,11 +12,11 @@ import moment from "moment-timezone"
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-    ["6285155282285"],
-    ["6285155282285", "️WudySoft - Owner", true]
+    ["62882006212045"],
+    ["62882006212045", "️Zxura - Owner", true]
 ]
-global.mods = ["6285155282285"]
-global.prems = ["6285155282285"]
+global.mods = ["62882006212045"]
+global.prems = ["62882006212045"]
 
 /*Website*/
 global.APIs = {
@@ -77,19 +77,19 @@ HIRO
 */
 
 /*Number*/
-global.nomorbot = "6281915141267"
-global.nomorown = "6285155282285"
-global.namebot = " Ediku 𝙱𝚘𝚝𝚣 あ⁩ "
-global.nameown = "「 Edikur.exe 」"
+global.nomorbot = "1(626)8894037"
+global.nomorown = "62882006212045"
+global.namebot = "Bot Esempe"
+global.nameown = "Zxura"
 
 /* Random */
 global.pmenus = pickRandom(["◈", "➭", "ଓ", "⟆•", "⳻⳻", "•", "↬", "◈▻", "⭑", "ᯬ", "◉", "᭻", "»", "〆", "々", "⛥", "✗", "⚜", "⚚", "♪"])
 global.htjava = pickRandom(["⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", "⬟", "⛊", "⚝"])
 
 /*Watermark*/
-global.wm = "                「 Edikur 𝙱𝚘𝚝𝚣 あ⁩ 」"
+global.wm = "                「 Bot Esempe 」"
 global.wm2 = "꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷"
-global.wm3 = htjava + " Edikur 𝙱𝚘𝚝𝚣"
+global.wm3 = htjava + " Bot Esempe"
 global.botdate = `${htjava} Date :  ${moment.tz("Asia/Jakarta").format("DD/MM/YY")}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz("Asia/Jakarta").format("HH:mm:ss")}`
 global.titlebot = `${htjava} Time Sever : ${moment.tz("Asia/Jakarta").format("HH:mm:ss")}\n⫹⫺ Date Server :  ${moment.tz("Asia/Jakarta").format("DD/MM/YY")}`
@@ -172,22 +172,22 @@ global.stickauth = author + "\nwa.me/" + nomorbot
 global.multiplier = 69
 
 /*Pesan*/
-global.eror = "_💤 Ada yang eror nih!_"
-global.wait = "_🕚 Mohon tunggu, dalam proses!_"
+global.eror = "_💤 Eror jirr!_"
+global.wait = "_🕚 Mohon tunggu, proses tod!_"
 global.render = "_📍 Rendering!_"
 global.webs = "https://lynk.id/kahfi.xd"
 global.gcwangsaf = "https://chat.whatsapp.com/H00xL58yrm5AERSeI5omBS"
 
 /*Donasi*/
 global.saweria = "https://saweria.co/Edikurbot"
-global.dana = "085155282285"
-global.pulsa = "085155282285"
+global.dana = "0882006312045"
+global.pulsa = "0882006312045"
 global.trakteer = "-"
 global.paypal = "-"
 global.gopay = "-"
 global.pgopay = "-"
-global.ppulsa = "085380166282"
-global.ppulsa2 = "085380166282"
+global.ppulsa = "0882006312045"
+global.ppulsa2 = "0882006312045"
 global.psaweria = "https://saweria.co/MaxxyBotz"
 
 /* Fake adReplyS*/
